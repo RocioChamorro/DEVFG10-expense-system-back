@@ -1,0 +1,5 @@
+entorno de Node
+ npm init
+Instalamos mongoose
+ npm install --save mongoose
+
