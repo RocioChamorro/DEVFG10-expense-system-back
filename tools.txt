@@ -1,5 +1,30 @@
 entorno de Node
  npm init
+
 Instalamos mongoose
  npm install --save mongoose
+O podemos instalar de una:
+ npm i express dotenv mongoose colors
+ npm i (junto con mongoose hacer el back) (variables de entorno) () (para poner colores a ciertos mensajes de consola)
 
+Para que el servidor actualice nuestros cambios:
+ npm i -D nodemon
+ npm (entorno de desarrollo)
+
+Como subir un proyecto local a github.
+https://gist.github.com/cgonzalezdai/cc33db72a6fe5178637aabb562eae35c
+ git init
+ git add .
+ git commit -m ""
+
+Manejador de errores de express
+ npm i express-async-handler
+
+npm i bcrypt
+npm i cors
+npm i jsonwebtoken
+
+
+contains emphasized items
+Leonidas Esteban
+https://carlosazaustre.es/como-crear-una-api-rest-usando-node-js
